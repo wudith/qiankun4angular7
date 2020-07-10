@@ -6,6 +6,7 @@
 
 ## 1、主应用：qiankun-main 
 基于qiankun (https://github.com/umijs/qiankun) 封装的主页面
+
 运行步骤：
 * cd qiankun-main 
 * npm install
@@ -16,6 +17,7 @@
 
 ## 2、微应用：child-my-app
 基于single-spa-angular（https://github.com/single-spa/single-spa-angular） 封装的angular7工程
+
 运行步骤：
 * cd child-my-app 
 * npm install
