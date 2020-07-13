@@ -12,7 +12,7 @@
 * npm install
 * npm run start:multiple
 
-
+访问地址：http://localhost:7099
 
 
 ## 2、微应用：child-my-app
@@ -22,7 +22,6 @@
 * cd child-my-app 
 * npm install
 * npm run serve:single-spa:my-app
-
 
 
 
