@@ -2,6 +2,6 @@
 
 #运行步骤：
 
-*cd child-my-app
-*npm install
-*npm run serve:single-spa:my-app
+* cd child-my-app
+* npm install
+* npm run serve:single-spa:my-app
