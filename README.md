@@ -18,13 +18,26 @@
 ## 2、微应用：child-my-app
 基于single-spa-angular（https://github.com/single-spa/single-spa-angular） 封装的angular7工程
 
+使用single-spa-angular:build作为builder启动,监听端口4208
+
 运行步骤：
 * cd child-my-app 
 * npm install
 * npm run serve:single-spa:my-app
 
 
+## 3、微应用：child-my-app-custom
+基于single-spa-angular（https://github.com/single-spa/single-spa-angular） 封装的angular7工程
+
+使用@angular-builders/custom-webpack:browser作为builder启动,监听端口4206
+
+运行步骤：
+* cd child-my-app-custom 
+* npm install
+* npm run serve:single-spa:my-app
 
 ## 相关版本信息
 * qiankun 版本：2.0.15
 * single-spa-angular 版本：3.6.0
+
+
